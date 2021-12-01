@@ -1,0 +1,14 @@
+C:\coding-tasks\nokdoc\nokdoc\bin\Debug\netcoreapp3.1\nokdoc.exe
+C:\coding-tasks\nokdoc\nokdoc\bin\Debug\netcoreapp3.1\nokdoc.deps.json
+C:\coding-tasks\nokdoc\nokdoc\bin\Debug\netcoreapp3.1\nokdoc.runtimeconfig.json
+C:\coding-tasks\nokdoc\nokdoc\bin\Debug\netcoreapp3.1\nokdoc.runtimeconfig.dev.json
+C:\coding-tasks\nokdoc\nokdoc\bin\Debug\netcoreapp3.1\nokdoc.dll
+C:\coding-tasks\nokdoc\nokdoc\bin\Debug\netcoreapp3.1\nokdoc.pdb
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.csproj.AssemblyReference.cache
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.AssemblyInfoInputs.cache
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.AssemblyInfo.cs
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.csproj.CoreCompileInputs.cache
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.dll
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.pdb
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.genruntimeconfig.cache
+C:\coding-tasks\nokdoc\nokdoc\obj\Debug\netcoreapp3.1\nokdoc.GeneratedMSBuildEditorConfig.editorconfig

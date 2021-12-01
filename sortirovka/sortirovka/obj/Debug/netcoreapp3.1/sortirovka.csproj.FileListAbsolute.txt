@@ -1,0 +1,14 @@
+C:\coding-tasks\sortirovka\sortirovka\bin\Debug\netcoreapp3.1\sortirovka.exe
+C:\coding-tasks\sortirovka\sortirovka\bin\Debug\netcoreapp3.1\sortirovka.deps.json
+C:\coding-tasks\sortirovka\sortirovka\bin\Debug\netcoreapp3.1\sortirovka.runtimeconfig.json
+C:\coding-tasks\sortirovka\sortirovka\bin\Debug\netcoreapp3.1\sortirovka.runtimeconfig.dev.json
+C:\coding-tasks\sortirovka\sortirovka\bin\Debug\netcoreapp3.1\sortirovka.dll
+C:\coding-tasks\sortirovka\sortirovka\bin\Debug\netcoreapp3.1\sortirovka.pdb
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.csproj.AssemblyReference.cache
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.AssemblyInfoInputs.cache
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.AssemblyInfo.cs
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.csproj.CoreCompileInputs.cache
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.dll
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.pdb
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.genruntimeconfig.cache
+C:\coding-tasks\sortirovka\sortirovka\obj\Debug\netcoreapp3.1\sortirovka.GeneratedMSBuildEditorConfig.editorconfig

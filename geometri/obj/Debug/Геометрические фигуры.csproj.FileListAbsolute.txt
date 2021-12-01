@@ -1,0 +1,10 @@
+C:\Users\Лёля\source\repos\Геометрические фигуры\obj\Debug\Геометрические фигуры.csprojAssemblyReference.cache
+C:\Users\Лёля\source\repos\Геометрические фигуры\obj\Debug\MainWindow.g.cs
+C:\Users\Лёля\source\repos\Геометрические фигуры\obj\Debug\App.g.cs
+C:\Users\Лёля\source\repos\Геометрические фигуры\obj\Debug\Геометрические фигуры_MarkupCompile.cache
+C:\Users\Лёля\source\repos\Геометрические фигуры\obj\Debug\Геометрические фигуры_MarkupCompile.lref
+C:\coding-tasks\geometri\obj\Debug\Геометрические фигуры.csproj.AssemblyReference.cache
+C:\coding-tasks\geometri\obj\Debug\MainWindow.g.cs
+C:\coding-tasks\geometri\obj\Debug\App.g.cs
+C:\coding-tasks\geometri\obj\Debug\Геометрические фигуры_MarkupCompile.cache
+C:\coding-tasks\geometri\obj\Debug\Геометрические фигуры_MarkupCompile.lref

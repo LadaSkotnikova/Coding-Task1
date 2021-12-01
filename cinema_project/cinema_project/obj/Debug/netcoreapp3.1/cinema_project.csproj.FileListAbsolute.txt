@@ -1,0 +1,13 @@
+C:\coding-tasks\cinema_project\cinema_project\bin\Debug\netcoreapp3.1\cinema_project.exe
+C:\coding-tasks\cinema_project\cinema_project\bin\Debug\netcoreapp3.1\cinema_project.deps.json
+C:\coding-tasks\cinema_project\cinema_project\bin\Debug\netcoreapp3.1\cinema_project.runtimeconfig.json
+C:\coding-tasks\cinema_project\cinema_project\bin\Debug\netcoreapp3.1\cinema_project.runtimeconfig.dev.json
+C:\coding-tasks\cinema_project\cinema_project\bin\Debug\netcoreapp3.1\cinema_project.dll
+C:\coding-tasks\cinema_project\cinema_project\bin\Debug\netcoreapp3.1\cinema_project.pdb
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.csproj.AssemblyReference.cache
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.AssemblyInfoInputs.cache
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.AssemblyInfo.cs
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.csproj.CoreCompileInputs.cache
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.dll
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.pdb
+C:\coding-tasks\cinema_project\cinema_project\obj\Debug\netcoreapp3.1\cinema_project.genruntimeconfig.cache

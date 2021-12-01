@@ -1,0 +1,14 @@
+C:\coding-tasks\raspredelenie\raspredelenie\bin\Debug\netcoreapp3.1\raspredelenie.exe
+C:\coding-tasks\raspredelenie\raspredelenie\bin\Debug\netcoreapp3.1\raspredelenie.deps.json
+C:\coding-tasks\raspredelenie\raspredelenie\bin\Debug\netcoreapp3.1\raspredelenie.runtimeconfig.json
+C:\coding-tasks\raspredelenie\raspredelenie\bin\Debug\netcoreapp3.1\raspredelenie.runtimeconfig.dev.json
+C:\coding-tasks\raspredelenie\raspredelenie\bin\Debug\netcoreapp3.1\raspredelenie.dll
+C:\coding-tasks\raspredelenie\raspredelenie\bin\Debug\netcoreapp3.1\raspredelenie.pdb
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.csproj.AssemblyReference.cache
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.AssemblyInfoInputs.cache
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.AssemblyInfo.cs
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.csproj.CoreCompileInputs.cache
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.dll
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.pdb
+C:\coding-tasks\raspredelenie\raspredelenie\obj\Debug\netcoreapp3.1\raspredelenie.genruntimeconfig.cache

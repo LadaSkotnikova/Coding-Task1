@@ -1,0 +1,14 @@
+C:\coding-tasks\sechenie\sechenie\bin\Debug\netcoreapp3.1\sechenie.exe
+C:\coding-tasks\sechenie\sechenie\bin\Debug\netcoreapp3.1\sechenie.deps.json
+C:\coding-tasks\sechenie\sechenie\bin\Debug\netcoreapp3.1\sechenie.runtimeconfig.json
+C:\coding-tasks\sechenie\sechenie\bin\Debug\netcoreapp3.1\sechenie.runtimeconfig.dev.json
+C:\coding-tasks\sechenie\sechenie\bin\Debug\netcoreapp3.1\sechenie.dll
+C:\coding-tasks\sechenie\sechenie\bin\Debug\netcoreapp3.1\sechenie.pdb
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.csproj.AssemblyReference.cache
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.AssemblyInfoInputs.cache
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.AssemblyInfo.cs
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.csproj.CoreCompileInputs.cache
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.dll
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.pdb
+C:\coding-tasks\sechenie\sechenie\obj\Debug\netcoreapp3.1\sechenie.genruntimeconfig.cache

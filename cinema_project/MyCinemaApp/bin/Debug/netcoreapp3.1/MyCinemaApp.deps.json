@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyCinemaApp/1.0.0": {
+        "dependencies": {
+          "cinema_project": "1.0.0"
+        },
+        "runtime": {
+          "MyCinemaApp.dll": {}
+        }
+      },
+      "cinema_project/1.0.0": {
+        "runtime": {
+          "cinema_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCinemaApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "cinema_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
